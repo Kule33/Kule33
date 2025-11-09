@@ -2,17 +2,13 @@
 
 # Hey there, I'm Beenuka Kulasekara 
 
-## Full-Stack Developer | AI Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Enterprise+System+Builder;Building+Real-World+Solutions;Always+Learning+Something+New)](https://git.io/typing-svg)
+## Full-Stack Developer | AI Enthusiast 
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+## 💡 About Me
 
 **BSc in Information Technology student at University of Moratuwa**, specializing in full-stack web development and enterprise system architecture.
 
@@ -24,9 +20,6 @@ Currently expanding my expertise in **artificial intelligence and machine learni
 
 💼 **Seeking:** Software engineering internship opportunities where I can contribute to impactful projects and continue growing as a developer.
 
-<br clear="right"/>
-
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybmkule33@gmail.com)
@@ -37,7 +30,7 @@ Currently expanding my expertise in **artificial intelligence and machine learni
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 ### Backend & APIs
 
@@ -78,8 +71,7 @@ Currently expanding my expertise in **artificial intelligence and machine learni
 
 ---
 
-## 🚀 What I'm Working On
-
+## 🚀 Current Focus
 
 **📝 CVIT Paper Builder**  
 Leading a team to create an exam management platform. React frontend, ASP.NET backend, automated workflows, and real-time updates.
@@ -88,11 +80,9 @@ Leading a team to create an exam management platform. React frontend, ASP.NET ba
 
 ---
 
-## Developer Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-
-### 📊 GitHub Statistics
 
 <table>
   <tr>
@@ -111,7 +101,7 @@ Leading a team to create an exam management platform. React frontend, ASP.NET ba
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -127,8 +117,6 @@ Leading a team to create an exam management platform. React frontend, ASP.NET ba
 ---
 
 <div align="center">
-
-
 
 ⭐️ From [Kule33](https://github.com/Kule33)
 
