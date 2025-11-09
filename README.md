@@ -1,30 +1,54 @@
 <div align="center">
 
-# Hey there, I'm Beenuka Kulasekara 
+# Beenuka Kulasekara
 
-## Full-Stack Developer | AI Enthusiast 
+### Undergradute | Full-Stack Developer | AI Enthusiast
+
+<p align="center">
+  <em>Building scalable solutions through elegant code and innovative thinking</em>
+</p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybmkule33@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beenuka-kulasekara)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kule33)
 
 </div>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 Professional Profile
 
-**BSc in Information Technology student at University of Moratuwa**, specializing in full-stack web development and enterprise system architecture.
+**BSc in Information Technology** | University of Moratuwa  
+Specialization: Full-Stack Web Development & Enterprise System Architecture
 
-I focus on building scalable, efficient solutions that address real-world challenges. My experience spans across developing comprehensive ERP systems, exam management platforms, and automated training solutions—always with an emphasis on clean code, robust architecture, and user-centric design.
+I am a results-driven software developer with a proven track record of designing and implementing scalable, enterprise-grade solutions. My portfolio includes comprehensive ERP systems, sophisticated exam management platforms, and intelligent automated training solutions—each built with a commitment to clean code principles, robust architecture, and exceptional user experience.
 
-Currently expanding my expertise in **artificial intelligence and machine learning**, **cloud infrastructure (AWS)**, and **distributed system design** to build next-generation applications.
+### Current Focus Areas
+- 🤖 **Artificial Intelligence & Machine Learning** – Exploring ML model integration and intelligent system design
+- ☁️ **Cloud Infrastructure** – AWS architecture and distributed systems
+- 🏗️ **System Architecture** – Designing scalable, maintainable enterprise solutions
 
-**Core Strengths:** Problem decomposition, system architecture design, full-stack development, and translating complex requirements into elegant technical solutions.
+### Core Competencies
 
-💼 **Seeking:** Software engineering internship opportunities where I can contribute to impactful projects and continue growing as a developer.
+**Technical Excellence**
+- Advanced problem decomposition and algorithmic thinking
+- Full-stack development with modern frameworks and best practices
+- Enterprise system architecture and microservices design
+- Database optimization and distributed data management
+
+**Professional Approach**
+- Translating complex business requirements into elegant technical solutions
+- Writing maintainable, well-documented, and test-driven code
+- Collaborative development with cross-functional teams
+- Continuous learning and adaptation to emerging technologies
+
+---
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ybmkule33@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beenuka-kulasekara)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kule33)
+### 💼 Currently Seeking Software Engineering Internship Opportunities
+
+*I'm eager to contribute to impactful projects while expanding my expertise in a dynamic, growth-oriented environment*
 
 </div>
 
@@ -101,7 +125,7 @@ Leading a team to create an exam management platform. React frontend, ASP.NET ba
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
