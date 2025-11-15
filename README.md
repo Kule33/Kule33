@@ -104,24 +104,6 @@ Leading a team to create an exam management platform. React frontend, ASP.NET ba
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kule33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kule33&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kule33&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 ---
 
