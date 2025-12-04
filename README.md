@@ -28,20 +28,6 @@ I am a results-driven software developer with a proven track record of designing
 - ☁️ **Cloud Infrastructure** – AWS architecture and distributed systems
 - 🏗️ **System Architecture** – Designing scalable, maintainable enterprise solutions
 
-### Core Competencies
-
-**Technical Excellence**
-- Advanced problem decomposition and algorithmic thinking
-- Full-stack development with modern frameworks and best practices
-- Enterprise system architecture and microservices design
-- Database optimization and distributed data management
-
-**Professional Approach**
-- Translating complex business requirements into elegant technical solutions
-- Writing maintainable, well-documented, and test-driven code
-- Collaborative development with cross-functional teams
-- Continuous learning and adaptation to emerging technologies
-
 ---
 
 <div align="center">
@@ -101,9 +87,6 @@ I am a results-driven software developer with a proven track record of designing
 Leading a team to create an exam management platform. React frontend, ASP.NET backend, automated workflows, and real-time updates.
 
 > *"Good code solves problems. Great code makes those solutions obvious."*
-
----
-
 
 ---
 
