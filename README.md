@@ -19,7 +19,6 @@
 ## 👨‍💻 Professional Profile
 
 **BSc undergraduate in Information Technology** | University of Moratuwa  
-Specialization: Full-Stack Web Development & Enterprise System Architecture
 
 I am a results-driven software developer with a proven track record of designing and implementing scalable, enterprise-grade solutions. My portfolio includes comprehensive ERP systems, sophisticated exam management platforms, and intelligent automated training solutions—each built with a commitment to clean code principles, robust architecture, and exceptional user experience.
 
